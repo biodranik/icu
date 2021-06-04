@@ -145,7 +145,7 @@ There are many ways in which ICU data may be reduced. If only certain locales or
 converters will be used, others may be removed. Additionally, data may be
 packaged as individual files or interchangeable archives (.dat files), allowing
 data to be installed and removed without rebuilding ICU. For details, see the
-[ICU Data](../icudata.md) chapter.
+[ICU Data](../icu_data/) chapter.
 
 ## ICU Versions
 
